@@ -11,7 +11,7 @@
 ---
 
 ## 👀 About Me
-- 📖 Reading, writing & playing ML when not coding
+- 📖 Reading, writing, watching anime & playing ML
 - 🦊 Anime, Manga & Manhwa <3
 - 🌙 Vibe coding = best coding (if it works at night, it works forever)  
 - 🌱 Currently exploring **Web Development** while resisting the urge to console.log my life  
