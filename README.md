@@ -5,7 +5,7 @@
 
 # 👋 Hi, I’m RenNanase (@dhzrnaaa)
 
-💡 Passionate about **web development** and **App Development** | 🚀 Always learning & building  
+💡 Passionate about **Web Development** and **App Development** | 🚀 Always learning & building  
 🎧 Certified *Vibe Coder* — writing code at 2AM with lo-fi beats  
 
 ---
