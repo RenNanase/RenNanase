@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38ef7d,100:11998e&height=150&section=header&text=RenNanase%20|%20Web%20Developer&fontSize=40&fontColor=ffffff" />
+  <img src="assets/banner.png" width="200" alt="banner" />
 </p>
 
 
