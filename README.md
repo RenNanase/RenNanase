@@ -1,13 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38ef7d,100:11998e&height=150&section=header&text=RenNanase%20|%20Web%20Developer&fontSize=40&fontColor=ffffff" />
+</p>
+
+
 # 👋 Hi, I’m RenNanase (@dhzrnaaa)
 
-💡 Passionate about **web development** | 🚀 Always learning & building  
+💡 Passionate about **web development** and **App Development** | 🚀 Always learning & building  
+🎧 Certified *Vibe Coder* — writing code at 2AM with lo-fi beats  
 
 ---
 
 ## 👀 About Me
-- 📖 Love reading & writing  
-- 💻 Enjoy vibe coding late at night  
-- 🌱 Currently diving deeper into **Web Development**  
+- 📖 Reading & writing when not coding  
+- 🌙 Vibe coding = best coding (if it works at night, it works forever)  
+- 🌱 Currently exploring **Web Development** while resisting the urge to console.log my life  
 
 ---
 
@@ -20,12 +26,13 @@
 
 ---
 
-## 📌 Projects
-- 🔹 [Senior Care Form - JMC](https://github.com/your-repo)  
-- 🔹 [Lo-Fi Radio Generator](https://github.com/your-repo)  
-- 🔹 More coming soon...  
+## ✨ Fun Facts from a Vibe Coder
+- 🚦 Debugging is just **vibe-checking your code**  
+- 🎶 Every project needs a playlist — my commits are powered by lo-fi & caffeine  
+- 🐛 Bugs don’t scare me… unless they appear after deployment  
+- 🕶️ I don’t always write code, but when I do, it’s probably at 3AM  
+- 🤔 *“Does it work?”* → yes. *“Is it optimized?”* → let’s not ruin the vibe.  
 
 ---
 
-## ✨ Fun Fact
-> “Vibe coding at its perks :3”
+> 💻 *Vibe coding at its perks :3*  
