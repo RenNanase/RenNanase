@@ -11,7 +11,8 @@
 ---
 
 ## 👀 About Me
-- 📖 Reading & writing when not coding  
+- 📖 Reading, writing & playing ML when not coding
+- 🦊 Anime, Manga & Manhwa <3
 - 🌙 Vibe coding = best coding (if it works at night, it works forever)  
 - 🌱 Currently exploring **Web Development** while resisting the urge to console.log my life  
 
@@ -23,15 +24,6 @@
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Shadcn](https://img.shields.io/badge/Shadcn-0A0A0A?style=for-the-badge&logo=radixui&logoColor=white)
-
----
-
-## ✨ Fun Facts from a Vibe Coder
-- 🚦 Debugging is just **vibe-checking your code**  
-- 🎶 Every project needs a playlist — my commits are powered by lo-fi & caffeine  
-- 🐛 Bugs don’t scare me… unless they appear after deployment  
-- 🕶️ I don’t always write code, but when I do, it’s probably at 3AM  
-- 🤔 *“Does it work?”* → yes. *“Is it optimized?”* → let’s not ruin the vibe.  
 
 ---
 
